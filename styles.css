@@ -63,7 +63,7 @@ input {
   100%{transform: translate(85px , 0%)} 
 }
 
-*/
+
 
 
 body {
@@ -113,3 +113,5 @@ body {
 @keyframes spin {
   100% { transform: rotate(360deg); }
 }
+
+*/
